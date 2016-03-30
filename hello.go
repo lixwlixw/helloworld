@@ -37,7 +37,7 @@ func main() {
 			fmt.Println(key, "=", environment[key])
 		}
 		cnt += 1
-		fmt.Println(cnt)
+		fmt.Println("#", cnt)
 		/*
 			for k, v := range environment {
 				fmt.Println(k, "=", v)
