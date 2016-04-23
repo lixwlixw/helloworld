@@ -3,6 +3,7 @@
 FROM alpine
 
 ADD ./hello /bin/
+EXPOSE 18080
 
 ENTRYPOINT ["/bin/hello"]
 
