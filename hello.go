@@ -56,6 +56,6 @@ func main() {
 				fmt.Println(k, "=", v)
 			}
 		*/
-		time.Sleep(time.Second)
+		time.Sleep(time.Minute * 10)
 	}
 }
