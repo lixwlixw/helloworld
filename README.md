@@ -1,3 +1,3 @@
 # Helloworld
 
-18080 port
+18080 port exposed
