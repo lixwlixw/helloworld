@@ -1,3 +1,6 @@
+ workspace:
+   base: /go
+   path: src/github.com/lixwlixw/helloworld
 pipeline:
   build: 
     image: golang
