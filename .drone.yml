@@ -14,5 +14,5 @@ pipeline:
     registry: registry.new.dataos.io
     username: hack
     password: 1234
-    insecure: false
+    insecure: true
     tags: [ latest ]
