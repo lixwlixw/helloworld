@@ -10,7 +10,7 @@ pipeline:
       - go test
   publish:
     image: plugins/docker
-    repo: registry.new.dataos.io
+    repo: registry.new.dataos.io/lixw/demoo
     registry: registry.new.dataos.io
     username: hack
     password: 1234
