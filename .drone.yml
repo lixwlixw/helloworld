@@ -10,8 +10,8 @@ pipeline:
       - go test
   publish:
     image: plugins/docker
-    repo: 172.25.163.133:5000/lixw/demooo
-    registry: 172.25.163.133:5000
+    repo: docker-registry.new.dataos.io/lixw/demooo
+    registry: docker-registry.new.dataos.io
     username: hack
     auth: SBUB7Do8ZpuUwZVwY1OeuZFyf8YgKUDxpPCoe_yiA6k
     insecure: true
