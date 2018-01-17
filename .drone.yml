@@ -14,5 +14,5 @@ pipeline:
     registry: 172.25.163.133:5000
     username: hack
     auth: SBUB7Do8ZpuUwZVwY1OeuZFyf8YgKUDxpPCoe_yiA6k
-    insecure: false
+    insecure: true
     tags: [ latest ]
