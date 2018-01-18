@@ -7,6 +7,7 @@ pipeline:
     commands:
       - go get
       - go build
+      - go test
   publish:
     image: plugins/docker
     repo: docker-registry.new.dataos.io/lixw/demooo
