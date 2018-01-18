@@ -1,5 +1,5 @@
 # This is a local-build docker image for p2p-dl test
-
+# this is a drone-cicd build test push....
 FROM alpine
 
 ADD ./hello /bin/
