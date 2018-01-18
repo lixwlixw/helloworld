@@ -13,6 +13,6 @@ pipeline:
     repo: docker-registry.new.dataos.io/lixw/demooo
     registry: docker-registry.new.dataos.io
     username: hack
-    auth: SBUB7Do8ZpuUwZVwY1OeuZFyf8YgKUDxpPCoe_yiA6k
+    password: SBUB7Do8ZpuUwZVwY1OeuZFyf8YgKUDxpPCoe_yiA6k
     insecure: true
     tags: [ latest ]
